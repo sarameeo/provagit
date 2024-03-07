@@ -1,5 +1,7 @@
 package provagit;
-
+/*
+ * A comment
+ */
 public class mainclass {
 
 	public static void main(String[] args) {
